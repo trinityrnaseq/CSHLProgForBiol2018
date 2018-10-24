@@ -1,10 +1,10 @@
 # Estimating Gene Expression Levels
 
-Write a python program that reads in the 'bowtie2.bam' file and generates a table containing the number of reads mapped to each gene.
+Write a python program that reads in the 'bowtie2.sam' file and generates a table containing the number of reads mapped to each gene.
 
 For example:
 
-    gene_read_counter.py bowtie2.bam
+    gene_read_counter.py bowtie2.sam
 
 would return:
 
